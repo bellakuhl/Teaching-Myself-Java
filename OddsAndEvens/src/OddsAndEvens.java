@@ -1,3 +1,8 @@
+/* Project for Module 2 in edX Java course
+ *  OddsAndEvens - game played on Seinfield
+ *  Game in action ------> https://youtu.be/4ZOLs03vILs?
+ */
+
 import java.util.*;
 public class OddsAndEvens {
 
